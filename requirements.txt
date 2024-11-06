@@ -1,0 +1,8 @@
+Flask==2.3.2
+SQLAlchemy==2.0.17
+opencv-python
+Flask-SQLAlchemy
+psycopg2
+pandas
+sqlalchemy
+openpyxl
